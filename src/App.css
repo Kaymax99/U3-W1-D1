@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.button {
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.App > div {
+  margin-top: 25px;
+}
